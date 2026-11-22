@@ -1,0 +1,46 @@
+
+{
+  "location": "Sangli, Maharashtra",
+  "resources": [
+    {
+      "id": "H001",
+      "name": "District Hospital",
+      "type": "hospital",
+      "latitude": 16.8524,
+      "longitude": 74.5815,
+      "capacity": 200,
+      "available": 45,
+      "status": "operational"
+    },
+    {
+      "id": "S001",
+      "name": "Emergency Shelter A",
+      "type": "shelter",
+      "latitude": 16.8600,
+      "longitude": 74.5900,
+      "capacity": 150,
+      "available": 100,
+      "status": "operational"
+    },
+    {
+      "id": "A001",
+      "name": "Ambulance Unit 1",
+      "type": "ambulance",
+      "latitude": 16.8450,
+      "longitude": 74.5750,
+      "capacity": 4,
+      "available": 3,
+      "status": "operational"
+    },
+    {
+      "id": "R001",
+      "name": "Rescue Team Alpha",
+      "type": "rescue_team",
+      "latitude": 16.8550,
+      "longitude": 74.5800,
+      "capacity": 10,
+      "available": 8,
+      "status": "operational"
+    }
+  ]
+}
